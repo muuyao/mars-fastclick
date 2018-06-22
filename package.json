@@ -1,0 +1,31 @@
+{
+  "name": "mars-fastclick",
+  "version": "1.0.0",
+  "description": "Polyfill to remove click delays on browsers with touch UIs.",
+  "author": {
+    "name": "Rowan Beentje",
+    "email": "rowan.beentje@ft.com"
+  },
+  "main": "lib/fastclick.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:QLFE/mars-fastclick.git"
+  },
+  "keywords": [
+    "fastclick",
+    "mobile",
+    "touch",
+    "tap",
+    "click",
+    "delay"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "implements": [
+    "CommonJS/Modules/1.0"
+  ]
+}
